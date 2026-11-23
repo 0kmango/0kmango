@@ -88,7 +88,17 @@ Auditoría y fortificación de sistemas mediante una mentalidad de seguridad por
 | PROYECTO | DESCRIPCIÓN | STACK | ESTADO |
 | :--- | :--- | :--- | :---: |
 | [**MangoBot**](https://github.com/0kmango/MangoBot) | Bot de Discord musical con funciones adicionales e IA integrada | `Python` `Discord API` | 🟢 **Activo** |
-| [**MangoRed**](https://github.com/0kmango/MangoRed) | Monitor Doméstico de Red Local para Linux y Windows| `Python / JavaScript` `Seguridad` `Redes` | 🟢 **Activo** |
+| [**MangoRed**](https://github.com/0kmango/MangoRed) | Monitor Doméstico de Red Local para Linux y Windows | `Python / JavaScript` `Seguridad` `Redes` | 🟢 **Activo** |
+| [**devsecops-pruebas-automatizadas**](https://github.com/0kmango/devsecops-pruebas-automatizadas) | Prácticas de DevSecOps: pruebas automatizadas y pipelines (Jenkins + GitHub Actions) | `Python` `Jenkins` `CI/CD` | 🟢 **Activo** |
+| [**jenkins-hola-mundo**](https://github.com/0kmango/jenkins-hola-mundo) | Ejercicio de integración continua con Jenkins: pipeline que compila y prueba | `Python` `Jenkins` | 🧪 **Práctica** |
+
+<br/>
+
+`[ CI // ESTADO DE PIPELINES ]`
+
+[![Calidad MangoBot](https://github.com/0kmango/MangoBot/actions/workflows/calidad.yml/badge.svg)](https://github.com/0kmango/MangoBot/actions/workflows/calidad.yml)
+[![Pruebas MangoRed](https://github.com/0kmango/MangoRed/actions/workflows/tests.yml/badge.svg)](https://github.com/0kmango/MangoRed/actions/workflows/tests.yml)
+[![CI devsecops](https://github.com/0kmango/devsecops-pruebas-automatizadas/actions/workflows/ci.yml/badge.svg)](https://github.com/0kmango/devsecops-pruebas-automatizadas/actions/workflows/ci.yml)
 
 <br/>
 
@@ -210,6 +220,36 @@ public final class ZeroZeroX extends Architect implements ExploitAuditor {
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=0kmango&background=0d0221&border=ffafcc&stroke=ffc8dd&ring=f4acb7&fire=ff8fab&currStreakLabel=ffc8dd&sideLabels=ffe5ec&dates=ffd6e0&currStreakNum=ffe5ec&sideNums=ffe5ec&cache_seconds=1800" alt="00x GitHub Streak" />
+
+<br/>
+
+<img src="assets/divider.svg" alt="divider" width="100%"/>
+
+ ̊+‧꒰ა ິ໒꒱ ‧+ ̊
+
+### ♱ ─── ❖ [ INSIGNIAS // LOGROS DE GITHUB ] ❖ ─── ♱
+
+<div align="center">
+
+**✟ DESBLOQUEADAS ✟**
+
+| INSIGNIA | LOGRO | CÓMO SE CONSIGUE |
+| :---: | :--- | :--- |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/> | **Quickdraw** | Cerrar un issue o pull request dentro de los 5 minutos posteriores a su apertura |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/> | **YOLO** | Fusionar un pull request sin revisión |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="80" alt="Pull Shark (bronce)"/> | **Pull Shark · Bronce** | 2 pull requests fusionados · *(16 → plata, 128 → oro)* |
+
+<br/>
+
+**† OBJETIVOS EN CURSO †**
+
+| INSIGNIA | LOGRO | META |
+| :---: | :--- | :--- |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire"/> | **Pair Extraordinaire** | Coautoría en un commit fusionado |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" alt="Galaxy Brain"/> | **Galaxy Brain** | 2 respuestas aceptadas en GitHub Discussions |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck"/> | **Starstruck** | Un repositorio propio con 16 estrellas |
+
+</div>
 
 <br/><br/>
 
